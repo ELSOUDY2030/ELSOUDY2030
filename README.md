@@ -1,12 +1,10 @@
 <h3 align="center"><img align="center"src="https://www.found.co.uk/wp-content/uploads/2017/08/AI-and-its-uses-topper.gif" width="800" height="300"></h3>
 
 
-<!-- /<h3 align="center"><img align="center"src="https://media.giphy.com/media/5krfq8pMdYhAV52xPg/giphy.gif" width="1000" height="400"></h3>
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
  -->
  <img src="https://tenor.com/bHFxV.gif" width=100% height=10px>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer Vision Engineer;&center=true&width=600&height=60&duration=5000&pause=2000&size=40" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Deep Learning Engineer;&center=true&width=600&height=60&duration=5000&pause=2000&size=40&color=#42f5ad" alt="Example Usage - README Typing SVG">
 </p>
  <img src="https://tenor.com/bHFxV.gif" width=100% height=10px>
 
