@@ -102,5 +102,5 @@ PyCharm | Git -->
 - I acknowledge my deficiencies in problem-solving and am currently engaged in efforts to enhance this aspect.
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=50&duration=4000&pause=1000&color=FFC107&background=FFFFFF&center=true&vCenter=true&width=1200&height=240&lines=Thank+you" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=50&duration=4000&pause=1000&color=FFC107&background=FFFFFF00&center=true&vCenter=true&width=1200&height=240&lines=Thank+you" alt="Typing SVG" /></a>
 
