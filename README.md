@@ -1,7 +1,7 @@
 <h3 align="center"><img align="center"src="https://www.found.co.uk/wp-content/uploads/2017/08/AI-and-its-uses-topper.gif" width="800" height="300"></h3>
 
 
- -->
+
  <img src="https://tenor.com/bHFxV.gif" width=100% height=10px>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Deep Learning Engineer;&center=true&width=600&height=60&duration=5000&pause=2000&size=40" alt="Example Usage - README Typing SVG">
