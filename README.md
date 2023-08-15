@@ -12,7 +12,7 @@
 
 # Profile 👨🏻‍💻
 
-  - A fresh graduate from Electronics and Communication Engineering, eager about Mathematics and Artificial Intelligence. and looking for an internship or a job opportunity that can help me gain hands-on experience.
+  - A recent recipient of a degree in Electronics and Communication Engineering, enthusiastic about Mathematics and Artificial Intelligence, and actively seeking an internship or job opening that will allow me to acquire practical skills.
 
 # Education 👨🏻‍🎓 
 
