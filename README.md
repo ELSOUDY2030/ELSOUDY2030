@@ -1,14 +1,14 @@
-<h3 align="center"><img align="center"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnByZWRudm10cmNoZ2ZlNGZ6bDNubXgyajlmdzdhdTI1OTgzcTZ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fs4Fh8g3KxM3PEoGIB/giphy.gif" width="800" height="300"></h3>
+<h3 align="center"><img align="center"src="https://media1.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif?cid=ecf05e47n4cgtpd40fkdz0hp7be96ndsojre3hu7g8oll6l8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="800" height="300"></h3>
 
 
 <!-- /<h3 align="center"><img align="center"src="https://media.giphy.com/media/5krfq8pMdYhAV52xPg/giphy.gif" width="1000" height="400"></h3>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
  -->
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif" width=100% height=95px>
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif" width=100% height=30px>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer Vision Engineer;&center=true&width=600&height=60&duration=5000&pause=2000&size=40" alt="Example Usage - README Typing SVG">
 </p>
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif" width=100% height=95px>
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0381.gif" width=100% height=30px>
 
 # Profile 👨🏻‍💻
 
