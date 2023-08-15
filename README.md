@@ -42,7 +42,7 @@
 &nbsp;&nbsp;
 [<img alt="alt_text" width="100px" height="40px" src="https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png" />](https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png)
 &nbsp;&nbsp; -->
-- Tensorflow | Keras | Scikit-learn | Matplotlib | Pandas | Numpy | FastAPI | Streamlit | OpenCV | MLFlow | Docker |
+- Tensorflow | Keras | Scikit-learn | Matplotlib | Pandas | Numpy | FastAPI | OpenCV | MLFlow | Docker | Selenium |
 
 
 ### ML Algorithms
