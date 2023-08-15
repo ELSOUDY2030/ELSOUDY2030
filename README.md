@@ -1,10 +1,10 @@
-<h3 align="center"><img align="center"src="https://www.found.co.uk/wp-content/uploads/2017/08/AI-and-its-uses-topper.gif" width="1200" height="450"></h3>
+<h3 align="center"><img align="center"src="https://www.found.co.uk/wp-content/uploads/2017/08/AI-and-its-uses-topper.gif" width="1200" height="390"></h3>
 
 
 
  <img src="https://tenor.com/bHFxV.gif" width=100% height=10px>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=100&duration=6996&pause=1000&color=ffc107&center=true&vCenter=true&width=1200&height=240&lines=Deep+Learning+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=100&duration=6996&pause=1000&color=ffc107&center=true&vCenter=true&width=1200&height=180&lines=Deep+Learning+Engineer" alt="Typing SVG" /></a>
 </p>
  <img src="https://tenor.com/bHFxV.gif" width=100% height=10px>
 
