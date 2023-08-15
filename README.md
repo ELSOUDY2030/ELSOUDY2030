@@ -14,8 +14,8 @@
 
 # Education 👨🏻‍🎓 
 
-- Bachelor's degree | Electronics and Communication Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 08/2018 – 02/2023
-  - Graduation Project: Artificial boat save dranwing people.
+- Bachelor's degree | Electronics and Communication Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 08/2018 – 06/2023
+  - Graduation Project: Garbage detection and classification.
 
 # Skills
 
