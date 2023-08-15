@@ -47,7 +47,7 @@
 
 ### ML Algorithms
 
-- K-Means | DB Scan | Hierarchical clustering | KNN | Decision tree | SVM | linear Regression | Logistic Regression | Naive Bays
+- K-Means | DB Scan | Hierarchical clustering | KNN | Decision tree | Random Forest| SVM | linear Regression | Logistic Regression | Naive Bays
 
 ### Deep Learning 
 
