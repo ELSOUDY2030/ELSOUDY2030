@@ -1,4 +1,4 @@
-<h3 align="center"><img align="center"src="https://images.squarespace-cdn.com/content/v1/5e9e61184a2e5f4b613d5853/1589203333135-LLNIKB08AXJFYQ29N7SM/AI.gif" width="800" height="300"></h3>
+<h3 align="center"><img align="center"src="https://www.found.co.uk/wp-content/uploads/2017/08/AI-and-its-uses-topper.gif" width="800" height="300"></h3>
 
 
 <!-- /<h3 align="center"><img align="center"src="https://media.giphy.com/media/5krfq8pMdYhAV52xPg/giphy.gif" width="1000" height="400"></h3>
