@@ -1,6 +1,6 @@
 
-
-<h3 align="center"><img align="center" src="https://www.found.co.uk/wp-content/uploads/2017/08/AI-and-its-uses-topper.gif" width="1200" height="390"></h3>
+<!--<h3 align="center"><img align="center"src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" width="800" height="400"></h3>-->
+<a href="<h3 align="center"><img align="center"src="https://www.found.co.uk/wp-content/uploads/2017/08/AI-and-its-uses-topper.gif" width="1200" height="390"></h3>" alt="animated-line-image-0387" /></a>
 
 
  <img src="https://tenor.com/bHFxV.gif" width=100% height=10px>
