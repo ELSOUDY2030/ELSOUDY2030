@@ -1,7 +1,5 @@
-<!--<h3 align="center"><img align="center"src="https://www.found.co.uk/wp-content/uploads/2017/08/AI-and-its-uses-topper.gif" width="800" height="400"></h3>-->
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.found.co.uk/wp-content/uploads/2017/08/AI-and-its-uses-topper.gif" alt="animated-line-image-0387" /></a>
 
- <img src="https://www.found.co.uk/wp-content/uploads/2017/08/AI-and-its-uses-topper.gif" width=100% height=10px>
+ <img src="https://www.found.co.uk/wp-content/uploads/2017/08/AI-and-its-uses-topper.gif" width=""1200 height="390">
 
  <img src="https://tenor.com/bHFxV.gif" width=100% height=10px>
 <p align="center">
