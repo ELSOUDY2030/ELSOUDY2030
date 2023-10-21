@@ -1,5 +1,5 @@
 
- <img src="https://www.found.co.uk/wp-content/uploads/2017/08/AI-and-its-uses-topper.gif" width=""1200 height="390">
+ <img src="https://www.found.co.uk/wp-content/uploads/2017/08/AI-and-its-uses-topper.gif" width="1200" height="390">
 
  <img src="https://tenor.com/bHFxV.gif" width=100% height=10px>
 <p align="center">
