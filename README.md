@@ -1,108 +1,222 @@
+<div align="center">
 
- <img src="https://www.found.co.uk/wp-content/uploads/2017/08/AI-and-its-uses-topper.gif" width="1200" height="390">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ffc107,100:ff6b35&height=200&section=header&text=Mohamed%20Nomer&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLMs&descAlignY=58&descColor=ffc107&animation=fadeIn" width="100%"/>
 
- <img src="https://tenor.com/bHFxV.gif" width=100% height=10px>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=100&duration=6000&pause=300&color=ffc107&center=true&vCenter=true&width=1200&height=180&lines=Deep+Learning+Engineer" alt="Typing SVG" /></a>
-</p>
- <img src="https://tenor.com/bHFxV.gif" width=100% height=10px>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=FFC107&center=true&vCenter=true&width=600&lines=Computer+Vision+Engineer+%F0%9F%91%81%EF%B8%8F;Deep+Learning+%26+NLP+Enthusiast+%F0%9F%A7%A0;Building+AI+that+sees+%26+understands+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-# Profile 👨🏻‍💻
+<br/>
 
-  - A recent recipient of a degree in Electronics and Communication Engineering, enthusiastic about Mathematics and Artificial Intelligence, and actively seeking an internship or job opening that will allow me to acquire practical skills.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Nomer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-nomer/)
+[![Gmail](https://img.shields.io/badge/Gmail-mohammadnomer2030-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadnomer2030@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201144413637)
+[![Location](https://img.shields.io/badge/Cairo-Egypt-FF0000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-# Education 👨🏻‍🎓 
+</div>
 
-- Bachelor's degree | Electronics and Communication Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 08/2018 – 06/2023
-  - Graduation Project: Garbage detection and classification.
+---
 
-# Skills
+## 🧠 About Me
 
-### Programming Languages
-[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />](https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" />](https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" />](https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" />](https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png)
-&nbsp;&nbsp;
-### Frameworks and Libraries 
-<!-- [<img alt="alt_text" width="40px" src="https://seeklogo.com/images/T/tensorflow-logo-C69AEAC9D0-seeklogo.com.png" />](https://seeklogo.com/images/T/tensorflow-logo-C69AEAC9D0-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" />](https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="80px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" />](https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />](https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="40px" src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" />](https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="120px" src="https://seeklogo.com/images/O/opencv-logo-2E094ACFAC-seeklogo.com.png" />](https://seeklogo.com/images/O/opencv-logo-2E094ACFAC-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="100px" height="40px" src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" />](https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="100px" height="40px" src="https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png" />](https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png)
-&nbsp;&nbsp; -->
-- Tensorflow | Keras | Scikit-learn | Matplotlib | Pandas | Numpy | FastAPI | OpenCV | MLFlow | Docker | Selenium |
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name       = "Mohamed Ahmed Nomer"
+        self.role       = "Computer Vision Engineer @ RTR Software Development"
+        self.location   = "Cairo, Egypt 🇪🇬"
+        self.focus      = ["Computer Vision", "NLP", "LLMs", "OCR", "Object Detection"]
+        self.languages  = {"Arabic": "Native", "English": "Upper Intermediate"}
+        self.currently  = "Building scalable AI systems for real-world deployments"
 
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something intelligent together 🤝")
 
-### ML Algorithms
+me = AIEngineer()
+me.say_hi()
+```
 
-- K-Means | DB Scan | Hierarchical clustering | KNN | Decision tree | Random Forest| SVM | linear Regression | Logistic Regression | Naive Bays
+---
 
-### Deep Learning 
+## 🛠️ Tech Stack
 
-- CNNs | LSTMs | RNNs | MLPs | Forward propagation | Backward Propagation | Mathematical Optimization | Data Augmentation | Image Segmentation | Hyperparameter Tuning
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<!-- ### IDEs, Containers, and code versioning 
+### 🤖 AI / ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-[<img alt="alt_text" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />](https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="60px" height="50px" src="https://static.wikia.nocookie.net/logopedia/images/d/d8/Colab.png/revision/latest?cb=20201019223838" />](https://repository-images.githubusercontent.com/228673061/b2c25180-3bff-11ea-965f-4b34f4c6be08)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="50px" height="50" src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" />](https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="50px"  height="50" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" />](https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="50px"  height="50" src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" />](https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="50px"  height="50" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" />](https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="50px"  height="50" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" />](https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png)
-&nbsp;&nbsp; -->
+### ☁️ Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+### 📊 Data & Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<!-- - Jupyter-lab | Google Collaboratory |
-PyCharm | Git -->
+---
 
-# Languages
+## 🚀 Featured Projects
 
-- English: Upper Intermediate
-- Arabic: Native 
+<table>
+<tr>
+<td width="50%">
 
-# Resume 
+### 🏗️ Building Height Estimation
+> Satellite imagery → 3D height estimation pipeline
 
-&nbsp;&nbsp;&nbsp;&nbsp;[<img alt="alt_text" width="71px" src="https://seeklogo.com/images/G/google-drive-logo-C66555C645-seeklogo.com.png" />](https://drive.google.com/file/d/1Y9R5D8ZVccCqaFgLeM1l04W3s2aILPUi/view?usp=sharing)
+- 🛰️ RealESRGAN for high-res feature extraction from **Sentinel-1/2**
+- 🌍 Deployed globally across **China, EU & USA**
+- 🔧 Custom loss functions to handle class imbalance
+- 📦 `PyTorch` `MLflow` `GDAL` `GeoPandas` `OpenCV`
 
-# Contact Me 🔗
+</td>
+<td width="50%">
 
+### 🎥 Face Recognition Attendance System
+> Automated attendance with anti-spoofing security
+
+- 🔐 Anti-spoofing measures for enhanced security
+- 📱 Both **mobile and web** interfaces
+- ☁️ Deployed via **FastAPI on AWS Lightsail**
+- 📦 `face_recognition` `Dlib` `OpenCV` `PyTorch`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🪪 OCR for ID Card Text Extraction
+> End-to-end OCR pipeline for structured data extraction
+
+- 🔍 **YOLOv8** for region detection
+- ✍️ **Pytesseract + OpenCV** for text recognition
+- 🚀 Production API on **AWS Lightsail**
+- 📦 `YOLOv8` `FastAPI` `Pytesseract` `OpenCV`
+
+</td>
+<td width="50%">
+
+### 𓂀 Hieroglyphic → English Translator
+> Ancient meets modern: AI-powered hieroglyph translation
+
+- 🏛️ Converts **Gardiner Hieroglyphs** to English
+- 🤗 Fine-tuned `facebook/nllb-200-distilled-600M`
+- 📦 `HuggingFace` `PyTorch` `Transformers`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚗 Car Counting at Wash Station
+> Real-time vehicle tracking & classification
+
+- 🕷️ **Selenium** scraping to build custom dataset
+- 📹 Real-time counting with **YOLOv8**
+- 🏎️ Fine-tuned **ResNet** for vehicle classification
+- 📦 `YOLOv8` `ResNet` `OpenCV` `Selenium`
+
+</td>
+<td width="50%">
+
+### 🗣️ LipSync Video Synchronization
+> Syncing lip movements to audio with deep learning
+
+- 🎬 **Wav2Lip** model for precise synchronization
+- 🧠 CNNs for feature extraction, RNNs for temporal modeling
+- 🎵 Audio preprocessing via **Librosa**
+- 📦 `Wav2Lip` `OpenCV` `Librosa` `CNNs` `RNNs`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience Timeline
+
+```
+🟡 Jul 2024 – Present   │ Computer Vision Engineer @ RTR Software (OrbitsIT)
+                         │ Object detection, model optimization, scalable CV systems
+                         │
+🟡 Oct 2023 – Apr 2024  │ AI Engineer @ ASDC Company
+                         │ OCR for ID cards (YOLOv8), Face recognition attendance system
+                         │
+🟡 Jun 2023 – Present   │ Freelance AI Engineer @ Upwork
+                         │ OCR pipelines, real-time tracking, computer vision solutions
+```
+
+---
+
+## 🎓 Education & Certifications
+
+| 📚 Program | 🏛️ Institution | 📅 Year |
+|---|---|---|
+| Generative AI Professional Diploma | Digital Egypt Pioneers Initiative (DEPI) | 2024 |
+| B.Sc. Electronics & Communication Engineering | Delta Higher Institute | 2018–2023 |
+| Transformers in Computer Vision | Udemy | 2024 |
+| AI & Applications Training | Zewail City | 2023 |
+| Intro to ML in Production | DeepLearning.AI | 2023 |
+| Deep Learning for Computer Vision | Udemy | 2023 |
+| Machine Learning in Python | 365 Data Science | 2022 |
+| AI Diploma | Instant | 2021–2022 |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MohammadNomer&show_icons=true&theme=dark&title_color=ffc107&icon_color=ffc107&text_color=ffffff&bg_color=0d1117&border_color=ffc107&hide_border=false" height="165"/>
 &nbsp;
-[<img alt="alt_text" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" />](https://wa.me/+201279548818)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />](https://www.linkedin.com/in/mohammad-nomer/)
-&nbsp;&nbsp;
-[<img alt="alt_text" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" />](mailto:mohammadnomer2030@gmail.com)
-<!-- &nbsp;&nbsp;
-[<img alt="alt_text" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook2_colored_svg-512.png" />](https://www.facebook.com/bassem.ahmed.7712/) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadNomer&layout=compact&theme=dark&title_color=ffc107&text_color=ffffff&bg_color=0d1117&border_color=ffc107" height="165"/>
 
-# Feedback
+<br/><br/>
 
-- Could you kindly offer feedback on areas where I could enhance myself?
-- I'm enthusiastic about receiving guidance that can aid in the advancement of my skill set.
-- Feel free to reach out to me via email or LinkedIn.
-- I acknowledge my deficiencies in problem-solving and am currently engaged in efforts to enhance this aspect.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadNomer&theme=dark&background=0d1117&ring=ffc107&fire=ff6b35&currStreakLabel=ffc107&border=ffc107" height="165"/>
 
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=50&duration=4000&pause=300&color=FFC107&background=FFFFFF00&center=true&vCenter=true&width=1200&height=240&lines=Thank+you" alt="Typing SVG" /></a>
+---
 
+## 🧩 Core AI Competencies
+
+<div align="center">
+
+| 👁️ Computer Vision | 🗣️ NLP & LLMs | ☁️ MLOps & Deployment |
+|:---:|:---:|:---:|
+| Object Detection | Transformers | AWS (Lightsail, EC2) |
+| Semantic Segmentation | Fine-tuning LLMs | Docker Containerization |
+| OCR Pipelines | Prompt Engineering | FastAPI REST APIs |
+| Face Recognition | RAG Systems | MLflow Tracking |
+| Real-time Tracking | HuggingFace Ecosystem | GCP |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+> *"I'm passionate about pushing the boundaries of what AI can see, understand, and build."*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-nomer/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadnomer2030@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:ffc107,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
