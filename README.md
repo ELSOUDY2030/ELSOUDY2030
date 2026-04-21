@@ -36,6 +36,8 @@ me.say_hi()
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 ### 🐍 Languages
@@ -63,6 +65,8 @@ me.say_hi()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
 
 ---
 
@@ -141,21 +145,6 @@ me.say_hi()
 </td>
 </tr>
 </table>
-
----
-
-## 💼 Experience Timeline
-
-```
-🟡 Jul 2024 – Present   │ Computer Vision Engineer @ RTR Software (OrbitsIT)
-                         │ Object detection, model optimization, scalable CV systems
-                         │
-🟡 Oct 2023 – Apr 2024  │ AI Engineer @ ASDC Company
-                         │ OCR for ID cards (YOLOv8), Face recognition attendance system
-                         │
-🟡 Jun 2023 – Present   │ Freelance AI Engineer @ Upwork
-                         │ OCR pipelines, real-time tracking, computer vision solutions
-```
 
 ---
 
